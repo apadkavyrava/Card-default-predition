@@ -14,8 +14,11 @@ Analysis - stats, hists, heat map, violin plot, boxplot, 2 features correlations
 2. Decision Tree 
 3. Random forest
 
-## Neuro Network
-NN with 2 hidden layers
+## Neural Network
+Basic NN with 2 hidden fully connected layers and relu activation.
 
+
+Used confusion matrix for evaluate results.
+Achived 82% accuracy as the best result.
 
 
