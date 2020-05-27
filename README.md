@@ -1,6 +1,6 @@
 # Card-default-predition
 
-### Make prediction whether person defaults on their card.
+### Modelling case - Make prediction whether person defaults on their card.
 
 Cleaning, features engineering.|
 Analysis - stats, hists, heat map, violin plot, boxplot, 2 features correlations.
